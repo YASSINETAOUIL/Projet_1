@@ -5,7 +5,7 @@
 #define BROCHE_ONEWIRE 7 // Broche utilisée pour le bus 1-Wire
 
 #define BROCHE_bouton0 2
-#define BROCHE_bouton1 3//ze
+#define BROCHE_bouton1 3
 #define BROCHE_bouton2 4
 
 LiquidCrystal_I2C lcd(0x27, 16, 2);
